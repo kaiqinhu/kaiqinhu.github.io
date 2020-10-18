@@ -7,7 +7,7 @@
       <p><b>邮箱：mongxianghu@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/photo_small.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo.jpg" width="100%"> % 插入证件照代码
     </td>
   </tr>
 </table>
