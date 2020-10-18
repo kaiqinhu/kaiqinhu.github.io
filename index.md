@@ -7,7 +7,7 @@
       <p><b>邮箱：mongxianghu@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/photo.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image]("/photo.jpg")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
